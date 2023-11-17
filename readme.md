@@ -29,20 +29,33 @@
 附录:
 
 Permissive License - 宽松许可证
+
 Derivative Works - 派生作品
+
 Worldwide - 世界范围
+
 Royalty-Free - 免费授权
+
 Patent Grant - 专利授权
+
 Non-exclusive - 非独家的
+
 Distribution - 分发
+
 Source Code - 源代码
+
 Binary Form - 二进制形式
+
 Notice - 注意事项
+
 License - 许可证
+
 Irrevocable - 不可撤销的
 
 [Apache_2.0是什么](https://www.apache.org/licenses/LICENSE-2.0)
+
 [米粉必看1](https://www.google.com.hk/search?q=%E5%B0%8F%E7%B1%B3+P2P)
+
 [米粉必看2](https://www.google.com.hk/search?q=%E5%B0%8F%E7%B1%B3+%E7%A7%AF%E6%9C%A8%E7%9B%92%E5%AD%90)
 
-为什么Vela的IDE只支持在Ubuntu使用呢，不会是搞不定交叉编译链，只能在GUN环境下用吧？🤗
+为什么Vela的IDE只支持在Ubuntu使用呢，不会是搞不定交叉编译链，只能在GNU环境下用吧？🤗
